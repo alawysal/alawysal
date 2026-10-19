@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080d1b"/><stop offset="1" stop-color="#142943"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#18d7c3"/><stop offset="1" stop-color="#d6a75d"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#23425b" stroke-width=".65"/></pattern>
+</defs>
+<rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)" opacity=".45"/>
+<path d="M760 300L970 0M900 300L1110 0M1040 300L1250 0" stroke="#1b4760" stroke-width="2" opacity=".45"/>
+<rect x="56" y="44" width="6" height="208" rx="3" fill="url(#line)"/>
+<text x="86" y="92" font-family="Arial,sans-serif" font-size="18" letter-spacing="5" fill="#2ce0cf">ENGINEERING • DATA • INTELLIGENCE</text>
+<text x="82" y="163" font-family="Arial,sans-serif" font-size="62" font-weight="700" fill="#f0f5ff">ALAWY SAL</text>
+<text x="85" y="206" font-family="Arial,sans-serif" font-size="23" fill="#b9c8dc">Data Engineering Lead  /  Software Engineer</text>
+<text x="85" y="248" font-family="Arial,sans-serif" font-size="18" fill="#d6a75d">FOUNDER  ·  SAL DATA SOLUTIONS</text>
+<circle cx="1090" cy="150" r="64" fill="none" stroke="#2ce0cf" stroke-width="3" opacity=".7"/>
+<circle cx="1090" cy="150" r="45" fill="none" stroke="#d6a75d" stroke-width="2" opacity=".8"/>
+<path d="M1060 155l20 20 39-48" fill="none" stroke="#2ce0cf" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
